@@ -9,7 +9,7 @@ object AppClass {
   {
     val spark = SparkSession.builder.master("local").getOrCreate()
 
-    print("done")
+    print("done test ")
 
   }
 
